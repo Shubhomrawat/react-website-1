@@ -23,7 +23,7 @@ function Footer() {
      
       <StyledFooterRow margin>
             <Map>
-              <Iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.732104374876!2d72.98951024915728!3d19.075512687024826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c6cae0d8c5ab%3A0xbbf4481d662ca2d8!2sFr.%20Conceicao%20Rodrigues%20Institute%20of%20Technology!5e0!3m2!1sen!2sin!4v1675516563701!5m2!1sen!2sin" width="100%" height="100%"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"/>
+              <Iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.732104374876!2d72.98951024915728!3d19.075512687024826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c6cae0d8c5ab%3A0xbbf4481d662ca2d8!2sFr.%20Conceicao%20Rodrigues%20Institute%20of%20Technology!5e0!3m2!1sen!2sin!4v1675516563701!5m2!1sen!2sin" width="90%" height="100%"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"/>
             </Map>
             <StyledFooterColumn>
               <HeaderFooterP smallHeader>Fr. C. Rodrigues Institute of Technology, Vashi</HeaderFooterP>

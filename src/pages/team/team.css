@@ -1,16 +1,16 @@
 
 
 .TeamSection {
-  margin-bottom: 40.4375em;
+  margin-bottom: 38.4375em;
 
 
   padding-inline: 1em;
 
-  @media (min-width: 48em) {
-    padding-inline: 2em;
+  @media (min-width: 70em) {
+    padding-inline: 5em;
   }
-  @media (min-width: 80em) {
-    padding-inline: calc((100% - 80em) / 2 + 2.5em);
+  @media (min-width: 90em) {
+    padding-inline: calc((100% - 70em) / 3 + 3.9em);
   }
 }
 

@@ -97,6 +97,6 @@ export const FooterP = styled.p`
 
 
 export const Map = styled.div`
-  // height: 888;
+  // height: 908;
   width: 100%;
 `;
